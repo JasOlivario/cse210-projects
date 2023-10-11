@@ -20,3 +20,5 @@ Date: 08/10/2023 - Prompt: If I had one thing I could do over today, what would 
  my routine
 Date: 08/10/2023 - Prompt: Who was the most interesting person I interacted with today? 
  my daughter
+Date: 11/10/2023 - Prompt: What was the strongest emotion I felt today? 
+ I felt joy!
