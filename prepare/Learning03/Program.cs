@@ -21,7 +21,6 @@ class Program
         Console.WriteLine(f4.GetFractionString());
         Console.WriteLine(f4.GetDecimalValue());
 
-
         Fraction f5 = new Fraction();
         f5.SetTop(5);
         f5.SetBottom(3);
