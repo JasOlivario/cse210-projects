@@ -22,3 +22,11 @@ Date: 08/10/2023 - Prompt: Who was the most interesting person I interacted with
  my daughter
 Date: 11/10/2023 - Prompt: What was the strongest emotion I felt today? 
  I felt joy!
+Date: 17/10/2023 - Prompt: What was the strongest emotion I felt today? 
+ happiness
+Date: 17/10/2023 - Prompt: What was the best part of my day? 
+ my daughter laughing
+Date: 17/10/2023 - Prompt: What was the strongest emotion I felt today? 
+ joy
+Date: 17/10/2023 - Prompt: What was the strongest emotion I felt today? 
+ anger
