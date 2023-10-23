@@ -1,0 +1,5 @@
+08/03/2023|What was the strongest emotion I felt today?|test1
+08/03/2023|What was the strongest emotion I felt today?|test2
+08/03/2023|How did I see the hand of the Lord in my life today?|test3
+08/03/2023|What was the strongest emotion I felt today?|test4
+08/03/2023|Who was the most interesting person I interacted with today?|test5
