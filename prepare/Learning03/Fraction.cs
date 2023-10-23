@@ -1,3 +1,5 @@
+using System.ComponentModel;
+
 public class Fraction
 {
     private int _top;
@@ -40,6 +42,10 @@ public class Fraction
     {
         _bottom = bottom;
     }
+
+    // public int top {get; set;}
+
+    // public int bottom {get; set;}
 
     public string GetFractionString()
     {
