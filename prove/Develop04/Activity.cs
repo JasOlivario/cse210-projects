@@ -6,7 +6,6 @@ public class Activity
     protected int _durationInSeconds;
     private string _name;
 
-    public int spinnerCounter;
 
     public Activity(string name, string description)
     {

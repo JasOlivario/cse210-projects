@@ -2,7 +2,7 @@ using System.Globalization;
 
 public class ListingActivity : Activity
 {
-    List<string> _listingPrompts = new List<string>() {
+    private List<string> _listingPrompts = new List<string>() {
         "Who are people that you appreciate?",
         "What are personal strengths of yours?",
         "Who are people that you have helped this week?",
